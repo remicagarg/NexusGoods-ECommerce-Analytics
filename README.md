@@ -25,3 +25,5 @@ This project provides actionable operational insights into sales performance, cu
 * /README.md — Project roadmap and setup guide.
 
 *Note: The primary Power BI architecture is captured within the .pbip schema layout. For rapid assessment of the dashboards without running local environments, please refer to the visual dashboard previews hosted in the primary overview repository.*
+## Dashboard Preview
+![E-Commerce Sales Dashboard](Dashboard Project Preview1.png)
